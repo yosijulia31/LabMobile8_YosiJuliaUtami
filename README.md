@@ -39,7 +39,7 @@ Berikut adalah penjelasan proses dari setiap bagian gambar pada aplikasi CRUD_mh
 
 6. Delete (Hapus Data):
    ![Alt Text](https://github.com/yosijulia31/LabMobile8_YosiJuliaUtami/blob/master/screenshoot/Screenshot%20(179).png)
-    ![Alt Text](https://github.com/yosijulia31/LabMobile8_YosiJuliaUtami/blob/master/screenshoot/Screenshot%20(173).png)
+    ![Alt Text](https://github.com/yosijulia31/LabMobile8_YosiJuliaUtami/blob/master/screenshoot/Screenshot%20(180).png)
    - Proses: Proses ini digunakan untuk menghapus data yang tidak diperlukan lagi dari database.
    - Tahapan:
      1. Pilih Data yang Akan Dihapus: Pengguna memilih data tertentu yang ingin dihapus, dengan mengklik tombol "Hapus" pada item data.
